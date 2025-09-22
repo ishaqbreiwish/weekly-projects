@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "week1-mini-shell"
+, "week1-tcp-chat"]
